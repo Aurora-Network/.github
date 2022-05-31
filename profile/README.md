@@ -1,5 +1,6 @@
 <h1 align="center">Aurora</h1>
-<h3 align="center">The Social Collaborative Blockchain</h3>
+<h3 align="center">✨The Social Collaborative Blockchain ✨ </h3>
+<h5 align="center"> ***Our logo will be here*** </h5>
 
 <h4 align="center">Learn more about our Community</h4>
 
@@ -11,15 +12,25 @@
 </p>
 
 
-<details><summary>Projects</summary>
+<details><summary align="center" >Projects</summary>
 <p>
-
-#### Humans2Eternals NFT Project
+<h6 align="center">- Humans2Eternals NFT Project 🤖</h6>
     
 
 </p>
 </details>
 
+<h3 align="center">Our most used programming languages</h3>
+<p align="center">
+
+  
+</p>
+
+
+<h4 align="center">Platforms/frameworks we primarily develop on</h4>
+<p align="center">
+<img alt="Solidity" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+</p>
 <!--
 
 **Here are some ideas to get you started:**
