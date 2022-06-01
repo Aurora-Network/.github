@@ -13,8 +13,9 @@
 <img alt="Medium URL" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>
 <a href="https://discord.gg/WuT2ghqE4y">
-<img alt="Discord URL" src="https://img.shields.io/discord/823810538554785823?style=for-the-badge">
+<img alt="Discord URL" src="https://img.shields.io/badge/Discord-white?style=flat&logo=discord">
 </a>  
+  
 </p>
 
 
