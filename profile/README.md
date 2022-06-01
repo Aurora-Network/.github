@@ -53,6 +53,6 @@
 <img alt="Truffle URL" src="https://cdn.svgporn.com/logos/truffle-icon.svg" style="width: 5%">
 </a> 
 <a href="https://www.firebase.com/">
-<img alt="Firebase" src="https://cdn.svgporn.com/logos/firebase.svg" style="width: 5%">
+<img alt="Firebase" src="https://cdn.svgporn.com/logos/firebase.svg" style="width: 4%">
 </a>   
 </p>
