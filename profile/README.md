@@ -41,7 +41,7 @@
 
 <h4 align="center">Platforms/frameworks we primarily develop on</h4>
 <p align="center">
-
+<!--add links to appStore and android-->
 <a href="https://trufflesuite.com/">
 <img alt="App Store" src="https://cdn.svgporn.com/logos/apple-app-store.svg" style="width: 5%">
 </a>
@@ -51,5 +51,8 @@
 </a>  
 <a href="https://trufflesuite.com/">
 <img alt="Truffle URL" src="https://cdn.svgporn.com/logos/truffle-icon.svg" style="width: 5%">
-</a>  
+</a> 
+<a href="https://www.firebase.com/">
+<img alt="Firebase" src="https://cdn.svgporn.com/logos/firebase.svg" style="width: 5%">
+</a>   
 </p>
