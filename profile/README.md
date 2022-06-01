@@ -1,6 +1,7 @@
 <h1 align="center">Aurora</h1>
 <h3 align="center">✨The Social Collaborative Blockchain ✨ </h3>
 <h5 align="center"> ***Our logo will be here*** </h5>
+![Mid Website 2 PNG](https://user-images.githubusercontent.com/81878031/171365378-4bad32f6-dcb6-488f-943f-33865e512bbe.png)
 
 <h4 align="center">Learn more about our Community</h4>
 
@@ -22,6 +23,15 @@
 
 <h3 align="center">Our most used programming languages</h3>
 <p align="center">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img alt="JavaScript URL" src="https://cdn.svgporn.com/logos/javascript.svg" style="width: 5%">
+</a>
+<a href="https://nodejs.org/">
+<img alt="Node.JS URL" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" style="width: 4%">
+</a>
+<a href="https://soliditylang.org/">
+<img alt="Solidity URL" src="https://cdn.svgporn.com/logos/solidity.svg" style="width: 3%">
+</a>  
 
   
 </p>
@@ -29,15 +39,15 @@
 
 <h4 align="center">Platforms/frameworks we primarily develop on</h4>
 <p align="center">
-<img alt="Solidity" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+
+<a href="https://trufflesuite.com/">
+<img alt="App Store" src="https://cdn.svgporn.com/logos/apple-app-store.svg" style="width: 5%">
+</a>
+
+<a href="https://trufflesuite.com/">
+<img alt="Android" src="https://cdn.svgporn.com/logos/android-icon.svg" style="width: 4%">
+</a>  
+<a href="https://trufflesuite.com/">
+<img alt="Truffle URL" src="https://cdn.svgporn.com/logos/truffle-icon.svg" style="width: 5%">
+</a>  
 </p>
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
