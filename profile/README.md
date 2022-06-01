@@ -1,4 +1,4 @@
-<h1 align="center">Aurora</h1>
+<h1 align="center"><b>AURORA</b></h1>
 <h3 align="center">✨The Social Collaborative Blockchain ✨ </h3>
 <h5 align="center"> ***Our logo will be here*** </h5>
 <p align="center">
