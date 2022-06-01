@@ -4,8 +4,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/81878031/171365378-4bad32f6-dcb6-488f-943f-33865e512bbe.png" />
   </p>
-![Mid Website 2 PNG](https://user-images.githubusercontent.com/81878031/171369333-0004ad6c-3170-4ec7-888b-7ad30600c125.png)
-
 
 <h4 align="center">Learn more about our Community</h4>
 
