@@ -33,6 +33,9 @@
 </a>
 <a href="https://soliditylang.org/">
 <img alt="Solidity URL" src="https://cdn.svgporn.com/logos/solidity.svg" style="width: 3%">
+</a>
+<a href="https://developer.apple.com/swift/">
+<img alt="Swift URL" src="https://cdn.svgporn.com/logos/swift.svg" style="width: 5%">
 </a>  
 
   
